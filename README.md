@@ -22,3 +22,6 @@ Frequency -- in minutes
 Code this app to calculate when the next train will arrive; this should be relative to the current time.
 Users from many different machines must be able to view same train times.
 Styling and theme are completely up to you. Get Creative!
+
+How I Solved This Assignment & My Technical Approach
+I started out by creating a wireframe and general outline of where I wanted specific information to be pushed to. From there, I outlined how I would solve each step that needed to be completed. As I wrote the code, I took an iterative approach and solved problems as they arose, until the problem "fell off" the project. Once the code was functional, I finalized the CSS. 
